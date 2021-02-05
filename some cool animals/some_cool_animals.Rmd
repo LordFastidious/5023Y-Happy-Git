@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Great white sharks have ~ 300 teeth
 - And swim way faster than you (25 mph)
-- And are listed as vulnerable on the IUCN Red List
+- And are listed as vulnerable on the IUCN Red List.
 
 #### California condors
 
@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - By 1987, there were only 10 California condors living in the wild
 - They are the largest flying bird in North America
-- Critically endangered on the IUCN Red List (> 400 today)
+- Critically endangered on the IUCN Red List (> 400 today).
 
 #### American pika
 
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
-- American pika are already disappearing from the Sierra Nevada
+- American pika are already disappearing from the Sierra Nevada.
 
 #### Ringtail cats
 
@@ -55,7 +55,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Can rotate their hind feet 180 degrees to climb better
 - They are not endangered, just very elusive
-- Closely related to raccoons
+- Closely related to raccoons.
 
 #### Grogu
 ![Photo: Courtesy of Phil](Grogu.jpg)
@@ -64,7 +64,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Also known as “The Child”
 - likes unfertilised frog eggs & control knobs
-- strong with the force
+- strong with the force.
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes
